@@ -1,4 +1,4 @@
-- Hi, I’m @ParthB2007
+- Hi, I’m Parth Baldha
 - Right now i am studying in Tapi Diploma College, Surat, Gujarat
 - I’m currently learning C/C++ programming
 - To contect me Email at parthbaldha2007@gmail.com
